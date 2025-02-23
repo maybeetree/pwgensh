@@ -7,7 +7,7 @@
 ## Installing
 
 ```shell
-wget 'https://github.com/maybeetree/pwgensh/blob/main/pwgen.sh' -O /usr/local/bin/pwgen.sh
+wget 'https://raw.githubusercontent.com/maybeetree/pwgensh/refs/heads/main/pwgen.sh' -O /usr/local/bin/pwgen.sh
 chmod +x /usr/local/bin/pwgen.sh
 ```
 
